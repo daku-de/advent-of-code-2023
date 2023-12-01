@@ -19,3 +19,6 @@ for i in range(1, 26):
 
         file.write('if __name__ == "__main__":\n')
         file.write('    main()\n\n')
+
+    with open(f'{folder_name}/data', 'w') as file:
+        file.write('')
