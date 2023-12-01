@@ -13,7 +13,7 @@ for i in range(1, 25):
         file.write(f'Finish: {i}. Dec 2023 - \n')
         file.write('Notes:\n')
         file.write('    \n')
-        file.write('"""\n\n')
+        file.write('"""\n\n\n')
         file.write('def main():\n')
         file.write(f'    print("Solution for Day {i}")\n\n\n')
 

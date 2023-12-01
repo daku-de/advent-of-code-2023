@@ -7,6 +7,7 @@ Notes:
     
 """
 
+
 def main():
     print("Solution for Day 14")
 
