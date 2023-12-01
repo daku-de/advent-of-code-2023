@@ -1,8 +1,3 @@
-'''
-Notes:
-    w
-   w
-'''
 import os
 
 
