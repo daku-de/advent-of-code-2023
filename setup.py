@@ -1,7 +1,7 @@
 import os
 
 
-for i in range(1, 25):
+for i in range(1, 26):
     folder_name = f'aoc-2023-day-{i:02}'
     os.makedirs(folder_name)
 
